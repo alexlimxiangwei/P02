@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Second Appssssssssss</string>
+    <string name="confirm">CONFIRM NOW</string>
+    <string name="testString">test</string>
+    <string name="title">Registration Form</string>
+    <string name="welcome">Welcome to Adventure Learning Club!</string>
+    <string name="edit_fname">First Name</string>
+    <string name="tv_fullName">Name: </string>
+    <string name="edit_lname">Last Name</string>
+    <string name="tv_gender">Gender:</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="tv_id">Student Id:</string>
+    <string name="tv_school">School:</string>
+    <string name="tv_email">E-mail:</string>
+    <string name="tv_phone">Phone:</string>
+    <string name="button_register">Register</string>
+</resources>
